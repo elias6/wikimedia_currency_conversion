@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!--Some sample XML that we use for a hiring candidate coding task.-->
+<response>
+    <conversion>
+        <currency>JPY</currency>
+        <rate>0.013125</rate>
+    </conversion>
+    <conversion>
+        <currency>BGN</currency>
+        <rate>0.6707</rate>
+    </conversion>
+    <conversion>
+        <currency>CZK</currency>
+        <rate>0.05190</rate>
+    </conversion>
+    <conversion>
+        <currency>ARS</currency>
+        <rate>0.2294</rate>
+    </conversion>
+    <conversion>
+        <currency>AUD</currency>
+        <rate>1.0689</rate>
+    </conversion>
+    <conversion>
+        <currency>CHF</currency>
+        <rate>1.1154</rate>
+    </conversion>
+</response>

@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS conversions (currency TEXT UNIQUE, usd NUMERIC)
